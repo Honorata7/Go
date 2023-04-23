@@ -1,0 +1,3 @@
+Player name: Alicja, Score: 6, Number: 31
+Player name: Agnieszka, Score: 5, Number: 55
+Player name: Alina, Score: 4, Number: 17
