@@ -1,0 +1,6 @@
+# znak '#' rozpoczyna komentarz, i cała linia z pliku jest ignorowana
+# każdy wiersz w pliku to albo komentarz albo opis zadania, wiersze tekst nie zawijają się
+[ ] to jest zadanie do zrobienia - puste nawiasy kwadratowe ze spacją w środku, rozpoczynające wiersz
+[x] zadanie oznaczone jako wykonane, tzw. DONE
+[-] zadanie oznaczone jako porzucone, które nie zostało wykonane i nie będzie wykonane w przyszłości, tzw. NOPE
+[+] zadanie w trakcie wykonywania (przydatne gdy wykonanie trwa jakiś czas)
